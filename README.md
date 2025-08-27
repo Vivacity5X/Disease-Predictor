@@ -6,7 +6,7 @@ It includes a **Streamlit web app** that allows users to input patient details a
 
 🚀 Features
 - Predicts Heart Disease Risk (Healthy ✅ / At Risk ⚠️)  
-- Trained with Random Forest Classifier** for high accuracy  
+- Trained with **Random Forest Classifier** for high accuracy  
 - Streamlit app for interactive predictions  
 - Supports custom patient input data  
 
