@@ -58,4 +58,7 @@ streamlit run streamlit_app.py
 - Get instant results: *Healthy ✅* or *At Risk ⚠️*  
 
 🙌 Acknowledgements
-- Dataset: [UCI Heart Disease Dataset](https://archive.ics.uci.edu/ml/datasets/heart+Disease)  
+- Dataset: [UCI Heart Disease Dataset](https://archive.ics.uci.edu/ml/datasets/heart+Disease)
+
+👨‍💻 Author
+Chaitanya Khandare 📧 Email: chaitanykhandare789@gmail.com
